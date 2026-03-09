@@ -1,0 +1,87 @@
+{
+  "cub_birds": [
+    ["bird", 1.0],
+
+    ["bird eye", 3.0],
+    ["bird beak", 3.0],
+    ["bird beak tip", 2.6],
+    ["bird nostrils", 2.4],
+    ["bird eye ring", 2.4],
+    ["bird crown", 2.2],
+    ["bird throat", 2.2],
+    ["bird head", 1.9],
+
+    ["bird primary feathers", 2.3],
+    ["bird secondary feathers", 2.1],
+    ["bird wing bar", 2.0],
+    ["bird shoulder", 1.5],
+    ["bird wing", 1.4],
+
+    ["bird tail feathers", 2.0],
+    ["bird tail", 1.4],
+
+    ["bird legs", 1.6],
+    ["bird feet", 1.6],
+    ["bird toes", 1.4],
+    ["bird claws", 1.3],
+
+    ["bird breast", 1.3],
+    ["bird belly", 1.2],
+    ["bird back", 1.2]
+  ],
+
+  "waterbirds": [
+    ["bird", 1.0],
+
+    ["bird eye", 3.0],
+    ["bird beak", 3.0],
+    ["bird beak tip", 2.7],
+    ["bird nostrils", 2.3],
+    ["bird eye ring", 2.2],
+    ["bird crown", 2.0],
+    ["bird throat", 2.1],
+    ["bird head", 1.8],
+
+    ["bird primary feathers", 2.2],
+    ["bird secondary feathers", 2.0],
+    ["bird wing bar", 1.8],
+    ["bird shoulder", 1.4],
+    ["bird wing", 1.3],
+
+    ["bird tail feathers", 1.9],
+    ["bird tail", 1.3],
+
+    ["bird legs", 1.5],
+    ["bird feet", 1.7],
+    ["bird toes", 1.6],
+    ["bird claws", 1.1],
+
+    ["bird breast", 1.4],
+    ["bird belly", 1.2],
+    ["bird back", 1.1]
+  ],
+
+  "celeba": [
+    ["face", 1.0],
+
+    ["hair", 3.6],
+
+    ["forehead skin", 0.4],
+    ["face skin", 0.3],
+    ["neck", 0.2],
+
+    ["eyes", 0.2],
+    ["eyebrows", 0.2],
+    ["nose", 0.2],
+    ["mouth", 0.2],
+    ["lips", 0.2],
+    ["ears", 0.2],
+
+    ["cloth", 0.1],
+
+    ["hat", 0.0],
+    ["eyeglass", 0.1],
+    ["earring", 0.0],
+    ["necklace", 0.0]
+  ]
+}
