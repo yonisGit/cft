@@ -67,7 +67,7 @@ Please cite our work if you use it in your research:
 @article{elisha2026concept,
   title={Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness},
   author={Elisha, Yehonatan and Barkan, Oren and Koenigstein, Noam},
-  journal={arXiv preprint arXiv:2511.13081},
+  journal={arXiv preprint arXiv:2603.08309},
   year={2026}
 }
 ```
