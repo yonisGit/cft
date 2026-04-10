@@ -1,4 +1,4 @@
-# Concept-Guided Fine-Tuning (CFT): Steering ViTs away from Spurious Correlations to Improve Robustness [CVPR 2026]
+# Concept-Guided Fine-Tuning (CFT): Steering ViTs away from Spurious Correlations to Improve Robustness [CVPR 2026 - Highlight]
 # **Official PyTorch Implementation**
 
 [![Paper](https://img.shields.io/badge/Paper-CVPR26-blue)](https://arxiv.org/abs/2603.08309)
