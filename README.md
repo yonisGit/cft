@@ -59,6 +59,7 @@ Links for dataset download:
 * Relevance maps repositories used: [IIA](https://github.com/iia-iccv23/iia), [Pytorch-GradCAM](https://github.com/jacobgil/pytorch-grad-cam), [AttnLRP](https://github.com/hila-chefer/Transformer-Explainability).
 * Our ViT models are based on the [timm](https://huggingface.co/timm), [DeiT](https://github.com/facebookresearch/deit), [DINOv2](https://github.com/facebookresearch/dinov2).
 * Our ImageNet finetuning code is based on [code from the official PyTorch repo](https://github.com/pytorch/examples/blob/main/imagenet/main.py).
+* Setup and hyperparameters: [RobustViT](https://github.com/hila-chefer/RobustViT).
 
 
 ## Citing our work
