@@ -66,11 +66,13 @@ Links for dataset download:
 ## Citing our work
 Please cite our work if you use it in your research:
 ```
-@article{elisha2026concept,
-  title={Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness},
-  author={Elisha, Yehonatan and Barkan, Oren and Koenigstein, Noam},
-  journal={arXiv preprint arXiv:2603.08309},
-  year={2026}
+@InProceedings{Elisha_2026_CVPR,
+    author    = {Elisha, Yehonatan and Barkan, Oren and Koenigstein, Noam},
+    title     = {Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {17035-17045}
 }
 ```
 
